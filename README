@@ -1,0 +1,11 @@
+########## Arkanoid ###########
+
+Jogo feito em C++ utilizando Allegro
+
+compilar: 
+g++ arkanoid1.cpp -lallegro -lallegro_image -lallegro_primitives -lallegro_font -lallegro_ttf -lallegro_audio -lallegro_acodec
+
+executar:
+./a.out
+
+
